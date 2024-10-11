@@ -1,4 +1,6 @@
 # thinger for url
 # ?vscode-coi=
 
-print('Hello World')
+import testers_hello as hello
+
+hello.greet()
